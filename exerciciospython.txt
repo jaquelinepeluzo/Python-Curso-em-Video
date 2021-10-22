@@ -1,0 +1,110 @@
+1 - crie um script python que leia o nome de uma pessoa
+e mostra uma mensagem de boas-vindas de acordo com o valor digitado
+
+2 - crie um script python que leia o dia, o mês e o ano de nascimento
+de uma pessoa e mostre uma mensagem com a data formatada
+
+3- crie um script python que leia dois numeros e tente mostrar a soma entre eles
+
+4-faça um programa que leia algo pelo teclado
+e mostre na tela o seu tipo primitivo e todas as informações possiveis sobre ele
+
+5- faça um programa que leia um número inteiro e mostre na tela o seu sucessor e seu antecessor
+
+6- crie um algoritmo que leia um número e mostre o seu dobro, triplo e raiz quadrada
+
+7- desenvova um programa que leia as duas notas de um aluno, calcule e mostre a sua média
+
+8- escreva um programa que leia um valor em metros e o exiba convertido em
+centimetros e milimetros
+
+9- faça um programa que leia o numero inteiro qualquer e mostre na tela a sua tabuada
+
+10- crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos
+dólares ela pode comprar, considere U$1,00 = R$3,27
+
+11- faça um programa que leia a largura e a altura de uma parede em metros, calcula a sua área
+e a quantidade de tinta necessária para pintá-la, sabendo que cada litro de tinta pinta uma área
+de 2m2
+
+12- faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto
+
+13- faça um algoritmo que leia o salário de um funcionário e mostre seu novo salário, com 15% de
+aumento
+
+14 - escreve um programa que converta uma temperatura digitada em °c e converta para °f
+
+15 - escreva um programa que pergunte a quantidade de KM percorridos por um carro alugado
+e a quantidade de dias pelos quais ele foi alugado.
+calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R%0.15 por km rodado
+
+16- crie um programa que leia um numero real qualquer pelo teclado
+e mostre na tela a sua porção inteira
+ex: 6.127  , parte inteira 6
+
+17- faça um programa que leia o comprimento do cateto oposto  e do cateto adjacente
+de um triangulo retangulo, calcule e mostre o comprimento da hipotenusa
+
+18- faça um programa que leia um angulo qualquer e mostre na tela o valoro do seno,
+cosseno e tangente desse ângulo
+
+19 - um professor que sortear um dos seus quatro alunos para apagar o quadro.
+Faça um programa que ajude ele, lendo o nome deles e escrevendo o nome escolhido
+
+20 - o mesmo professor do desafio anterior quer sortear a ordem de apresentação de trabalhos
+dos alunos. Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada
+
+21 - faça um programa em python que abra e reproduza o audio de um arquivo em mp3
+
+22 - crie um programa que leia o nome completo de uma pessoa e mostre:
+- O nome com todas as letras maiúsculas
+- o nome com todas as letras minúsculas
+- quantas letras ao todo(sem considerar espaços)
+- quantas letras tem o primeiro nome  
+
+23- faça um programa que leia o número de 0 a 9999 e mostre na tela cada um de seus dígitos separados
+ex: 1843   
+unidade: 4
+dezena: 3
+centena: 8
+milhar: 1
+
+24- crie um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome 'santo'
+
+25 - crie um programa que leia o nome de uma pessoa e diga se tem 'silva' no nome.
+
+26 - faça um programa que leia uma frase qualquer, e mostre:
+- quantas vezes aparece a letra 'A'
+- em que posição ela aparece a primeira vez
+- em que posição ela aparece a última vez  
+
+27 - faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro
+e o último nome separadamente
+e: Ana Maria de Souza
+primeiro = Ana
+último = Souza
+
+28 - escreva um programa que faça o computador 'pensar' em um número inteiro entre 0 e 5
+e peça para o usuário tentar descobrir qual foi o número escolhido pelo computador.
+O programa deverá escrever na tela se o usuário venceu ou perdeu
+
+29 - escreva um programa que leia a velocidade de um carro.
+se ele ultrapassar 80km/h, mostre uma mensagem dizendo que ele foi multado.
+a multa vai custar R$7,00 por cada Km acima da limite.
+
+30 - crie um programa que leia um número inteiro e mostre na tela se ele é PAR ou ímpar.
+
+31 - Desenvolva um programa que pergunte a distância de uma viagem em KM.
+Calcule o preço da passagem, cobrando R$0,50 por KM para viagens de até 200KM e
+R$0,45 para viagens mais longas.
+
+32 -  Faça um programa que leia um ano qualquer e mostre se ele é BISSEXTO
+
+33 - Faça um programa que leia três números e mostre qual é o maior e qual é o menor.
+
+34 - Escreva um programa que pergunte o salário de um funcionário e calcule o valor do seu aumento.
+Para salários superiores a R$1.250,00, calcule um aumento de 10%
+Para inferiores ou iguais, o aumento é de 15%.
+
+35 - desenvolva um programa que leia o comprimento de três retas 
+e diga ao usuário se elas podem ou não formar um triângulo.
